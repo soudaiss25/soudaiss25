@@ -4,7 +4,7 @@
 
 Développeur Full Stack en formation • Java/Spring Boot & Angular • en route vers l'IA & la Data
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soudaiss)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selfayadine92@gmail.com)
 
 </div>
@@ -29,7 +29,7 @@ Développeur Full Stack en formation • Java/Spring Boot & Angular • en route
 <img src="https://github-readme-stats.vercel.app/api?username=soudaiss25&show_icons=true&theme=radical&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soudaiss25&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soudaiss25&theme=radical&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=soudaiss25&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
@@ -37,6 +37,6 @@ Développeur Full Stack en formation • Java/Spring Boot & Angular • en route
 
 <div align="center">
 
-📍 France — 🎓 Mastère Dev, Data & IA
+📍 France — 🎓 Mastère Dev, Data & IA — IPSSI Paris
 
 </div>
