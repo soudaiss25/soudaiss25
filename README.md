@@ -1,42 +1,55 @@
-<div align="center">
+# Soudaiss Elfayadine
 
-# Salut, moi c'est Soudaiss 👋
+**Développeur IA & Data — IA appliquée à l'imagerie médicale**
 
-Développeur Full Stack en formation • Java/Spring Boot & Angular • en route vers l'IA & la Data
+Étudiant en Mastère Dev, Data & IA (IPSSI Paris) et développeur IA en alternance dans un centre de médecine nucléaire (Blois).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soudaiss)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selfayadine92@gmail.com)
+- Pipelines d'IA en production
+- Assistants LLM connectés aux outils internes (MCP)
+- Applications full stack, du back-end à l'interface
+- Attention portée à la conformité (RGPD, AI Act)
 
-</div>
+**Disponible pour un CDI à partir de [DATE]**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soudaiss_Elfayadine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soudaiss-elfayadine-b78741288/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soudaiss--portfolio.netlify.app-2b2b2b?style=flat-square&logo=netlify&logoColor=white)](https://soudaiss-portfolio.netlify.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-selfayadine92%40gmail.com-b23121?style=flat-square&logo=gmail&logoColor=white)](mailto:selfayadine92@gmail.com)
 
-### 🛠️ Stack technique
+## Projets phares
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Projet | Description |
+|---|---|
+| [Faltack CRM](https://github.com/soudaiss25/Faltack_CRM) | CRM et gestion financière pour un cabinet comptable : pipeline commercial, devis et factures, impayés, analyse financière par entreprise, documents et gestion des rôles. Next.js, Express, PostgreSQL (Supabase). |
+| [liko](https://github.com/soudaiss25/liko) | Marketplace web : catalogue, panier, commandes et suivi, espace d'administration. Next.js, Supabase. |
 
----
+D'autres projets (applications métier, IA appliquée à l'imagerie médicale) ne sont pas publics, pour des raisons de confidentialité. Je peux en parler en entretien.
 
-### 📊 Statistiques GitHub
+## Stack technique
 
-<div align="center">
+**IA & Data**
 
-<img src="https://github-readme-stats.vercel.app/api?username=soudaiss25&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soudaiss25&layout=compact&theme=radical&hide_border=true" width="48%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<img src="https://streak-stats.demolab.com/?user=soudaiss25&theme=radical&hide_border=true" width="60%" />
+**Back-end**
 
-</div>
+![C#](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Front-end**
 
-<div align="center">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-📍 France — 🎓 Mastère Dev, Data & IA — IPSSI Paris
+**DevOps**
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
