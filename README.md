@@ -9,7 +9,7 @@
 - Applications full stack, du back-end à l'interface
 - Attention portée à la conformité (RGPD, AI Act)
 
-**Disponible pour un CDI à partir de [DATE]**
+**Disponible pour un CDI à partir de novembre 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soudaiss_Elfayadine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soudaiss-elfayadine-b78741288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-soudaiss--portfolio.netlify.app-2b2b2b?style=flat-square&logo=netlify&logoColor=white)](https://soudaiss-portfolio.netlify.app/)
@@ -20,7 +20,7 @@
 | Projet | Description |
 |---|---|
 | [Faltack CRM](https://github.com/soudaiss25/Faltack_CRM) | CRM et gestion financière pour un cabinet comptable : pipeline commercial, devis et factures, impayés, analyse financière par entreprise, documents et gestion des rôles. Next.js, Express, PostgreSQL (Supabase). |
-| [liko](https://github.com/soudaiss25/liko) | Marketplace web : catalogue, panier, commandes et suivi, espace d'administration. Next.js, Supabase. |
+| [Pharmacie](https://github.com/soudaiss25/Pharmacie2) | Application de bureau de gestion pour une pharmacie : stock et réceptions, ventes avec mutuelle, caisse, commandes fournisseurs, statistiques, sauvegarde chiffrée hors du PC et verrouillage automatique. C# .NET 8 (WinForms), SQLite, tests xUnit et CI GitHub Actions (branche `fiabilisation`). |
 
 D'autres projets (applications métier, IA appliquée à l'imagerie médicale) ne sont pas publics, pour des raisons de confidentialité. Je peux en parler en entretien.
 
